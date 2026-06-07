@@ -3,6 +3,21 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>cudnn-windows-x86_64-9.23.0.39_cuda13-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xuaQ==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.23.0.39_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xuaA==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.22.0.52_cuda13-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xuZw==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.22.0.52_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xuZg==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.21.1.3_cuda13-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xuZQ==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.21.1.3_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xuZA==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.21.0.82_cuda13-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xtbQ==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.21.0.82_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xtbA==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.20.0.48_cuda13-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xtaw==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.20.0.48_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xtag==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.19.1.2_cuda13-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xtaQ==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.19.1.2_cuda13-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xtZQ==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.19.1.2_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xtaA==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.19.0.56_cuda13-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xtZw==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.19.0.56_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZaTl5xtZg==">下载</a></td></tr>
 <tr><td>cudnn-windows-x86_64-9.18.1.3_cuda13-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWam5ZtbQ==">下载</a></td></tr>
 <tr><td>cudnn-windows-x86_64-9.18.1.3_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWam5ZuZA==">下载</a></td></tr>
 <tr><td>cudnn-windows-x86_64-9.18.0.77_cuda13-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWam5ZuZQ==">下载</a></td></tr>
@@ -86,6 +101,20 @@
 <tr><td>cudnn-windows-x86_64-8.4.1.50_cuda11.6-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWVmJtpZA==">下载</a></td></tr>
 <tr><td>cudnn-windows-x86_64-8.4.1.50_cuda10.2-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWVmJpybQ==">下载</a></td></tr>
 <tr><td>cudnn-windows-x86_64-8.4.0.27_cuda10.2-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWVmJpybA==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.23.0.39_cuda13-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xvbQ==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.23.0.39_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xvbA==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.22.0.52_cuda13-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xvaw==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.22.0.52_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xvag==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.21.1.3_cuda13-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xvaQ==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.21.1.3_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xvaA==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.21.0.82_cuda13-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xvZw==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.21.0.82_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xvZg==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.20.0.48_cuda13-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xvZQ==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.20.0.48_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xvZA==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.19.1.2_cuda13-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xubQ==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.19.1.2_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xubA==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.19.0.56_cuda13-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xuaw==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.19.0.56_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZaTl5xuag==">下载</a></td></tr>
 <tr><td>cudnn-linux-x86_64-9.18.1.3_cuda13-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWam5ZvbA==">下载</a></td></tr>
 <tr><td>cudnn-linux-x86_64-9.18.1.3_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWam5Zvaw==">下载</a></td></tr>
 <tr><td>cudnn-linux-x86_64-9.18.0.77_cuda13-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWam5Zvag==">下载</a></td></tr>
@@ -181,6 +210,10 @@ cuda安装包系列
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>cuda_13.3.0_windows.exe</td><td><a href="https://mbd.pub/o/bread/YZaTl5xsaw==">下载</a></td></tr>
+<tr><td>cuda_13.2.1_windows.exe</td><td><a href="https://mbd.pub/o/bread/YZaTl5xsbA==">下载</a></td></tr>
+<tr><td>cuda_13.2.0_windows.exe</td><td><a href="https://mbd.pub/o/bread/YZaTl5xsbQ==">下载</a></td></tr>
+<tr><td>cuda_13.1.2_windows.exe</td><td><a href="https://mbd.pub/o/bread/YZaTl5xtZA==">下载</a></td></tr>
 <tr><td>cuda_13.1.1_windows.exe</td><td><a href="https://mbd.pub/o/bread/YZWam5ZwZA==">下载</a></td></tr>
 <tr><td>cuda_13.1.0_windows.exe</td><td><a href="https://mbd.pub/o/bread/YZWam5ZvbQ==">下载</a></td></tr>
 <tr><td>cuda_13.0.2_windows.exe</td><td><a href="https://mbd.pub/o/bread/YZWYm55uZQ==">下载</a></td></tr>
